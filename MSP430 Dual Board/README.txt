@@ -1,0 +1,8 @@
+Tips for Programming:
+
+I2C is used for communication in between the two MSP430s.
+
+SPI is used to communicate with the DAC and the F-RAM chips.
+
+
+The debugger input uses TEST and RST
