@@ -1310,6 +1310,7 @@
 <rectangle x1="7.6454" y1="32.9946" x2="8.9662" y2="33.0454" layer="22"/>
 <rectangle x1="7.6454" y1="33.0454" x2="8.9662" y2="33.0962" layer="22"/>
 <text x="0" y="-0.254" size="0.1016" layer="200" font="vector">/home/eternia/Downloads/Ohw-logo.bmp</text>
+<text x="2.8448" y="20.2184" size="1.27" layer="21">goo.gl/9QzRi0</text>
 </plain>
 <libraries>
 <library name="msp430_board">
